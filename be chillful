@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="description" content="">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+   <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+   <!-- Title -->
+   <title>vivablee - Be Chill</title>
+
+   <!-- Favicon -->
+   <link rel="icon" href="img/core-img/favicon.ico">
+
+   <!-- Style CSS -->
+   <link rel="stylesheet" href="style.css?v=10">
+   <!-- social-media icon -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   <style>
+
+   .bechillful
+   {
+     padding-top:50px;
+     padding-bottom:25px;
+     padding-right:50px;
+     padding-left:100px;
+     font-family:inherit;
+
+   }
+
+   .social-media-instagram
+   {
+    position:absolute;
+    left:80%;
+    top:50px;
+   }
+
+   .social-media-facebook
+   {
+    position:absolute;
+    left:85%;
+    top:50px;
+   }
+
+   .social-media-twitter
+   {
+    position:absolute;
+    left:90%;
+    top:50px;
+   }
+   .fa
+   {
+   padding: 10px;
+   font-size: 10px;
+   width: 1px;
+   text-align: center;
+   text-decoration: none;
+   margin: 5px 2px;
+   }
+
+   .fa-instagram {
+   background: white;
+   color: black;
+   }
+   .fa-facebook {
+   background: white;
+   color: black;
+   }
+
+   .fa-twitter {
+   background: white;
+   color: black;
+   }
+
+   .navbar {
+   overflow: hidden;
+   background-color: white;
+   position: fixed;
+   top: 0px;
+   width: 100%;
+   }
+
+   .navbar a  {
+   float:right;
+   display: block;
+   color: black;
+   font-family:sans-serif;
+   text-align: center;
+   padding-top:20px;
+   padding-right:20px;
+   text-decoration: none;
+   font-size: 15px;
+
+   }
+
+   p.vivablee-logo
+   {
+   float:left;
+   padding-left:100px;
+   font-size:20px;
+   font-family:sans-serif;
+
+   }
+
+   .chillful-tittle
+  {
+  /!-- position:absolute;
+   left:43%;
+   top:170px;--/
+   font-family:inherit;
+   font-size:30px;
+  }
+
+   .chillful-introduction
+  {
+  /!--  position:absolute;
+    left:43%;
+    top:250px;--/
+    font-family:cursive;
+    font-size:17px;
+    color:grey;
+
+  }
+
+
+  </style>
+</head>
+
+<body>
+
+  <div id="preloader">
+    <div class="preload-content">
+      <div id="original-load"></div>
+    </div>
+  </div
+
+  <!-- be chillful at the top-left-->
+   <div class= "upper main padding">
+     <div class ="main-padding-inner">
+       <div class = "left">
+         <div class = "bechillful">
+           <p><strong>BE CHILLFUL!</strong></p>
+         </div>
+       </div>
+
+   <!--social media at the top-right-->
+       <div class="right">
+        <div class="col col-12 col-sm-6 col-md-4 col-lg-2">
+         <div class="social-media-instagram">
+           <div class = "instagram">
+             <a href="#" class="fa fa-instagram"></a>
+           </div>
+         </div>
+           <div class="social-media-facebook">
+             <a href="#" class="fa fa-facebook"></a>
+           </div>
+           <div class="social-media-twitter">
+             <a href="#" class="fa fa-twitter"></a>
+           </div>
+         </div>
+        </div>
+
+
+    <!--Fixed menu-->
+    <div class="navbar">
+      <div>
+        <p class="vivablee-logo"><strong>viva<span style = "font-family:sans-serif;color:orange">blee</span></strong></P>
+          <a href="#CONTACT US">CONTACT US</a>
+          <a href="#BE SUPPORTFUL">BE SUPPORTFUL</a>
+          <a href="#BE MINDFUL">BE MINDFUL</a>
+          <a href="#BE CHILLFUL">BE CHILLFUL</a>
+          <a href="#ABOUT US">ABOUT US</a>
+          <a href="#HOME">HOME</a>
+
+      </div>
+    </div>
+  </div>
+</div>
+     <!--introduction to vivablee chillful-->
+    <center>
+    <div class="what-is-chillful">
+     <div class="chillful-tittle">
+       <p>viva<span style="color:orange">blee</span> <strong>CHILLFUL</strong></p>
+     </div>
+     <div class="chillful-introduction">
+       <pre style="font-family:cursive">Chill Out and partake in our diverse
+picks of activities and experiences</pre>
+     </div>
+   </div>
+ </center>
+   <!--search the activity-->
+   <div class="search-the-activity">
+
+     <div class="search-bar">
+      <center>
+       <div style="width:60%;padding-top:50px">
+         <div style="float:left; color:grey">
+           <span style="text-decoration:underline; color:orange; margin-right:10px; cursor:pointer">All</span>
+           <span style="margin-right:10px; cursor:pointer">Art</span>
+           <span style="margin-right:10px; cursor:pointer">BodyWellness</span>
+           <span style="margin-right:10px; cursor:pointer">Discover</span>
+           <span style="margin-right:10px; cursor:pointer">F&B</span>
+           <span style="margin-right:10px; cursor:pointer">Fitness</span>
+         </div><br>
+         <div style="height:5px;"></div>
+         <form action="#">
+         <input style="width:100%; padding:10px;" placeholder="Join an activity to relax"></input>
+       </form>
+       </div>
+     </center>
+
+  <!--video clip playing -->
+
+
+     <!--activity example-->
+    <br/><br/><br/>
+    <div style="padding-left:100px">
+     <div style="border:2px #ccc solid;border-radius:10px;width:140px;height:20px;background-color:white;">Go Out and Discover
+     </div>
+
+    <div>
+      <p>LOCAL TOUR: POK FU LAM</P>
+        <P>Explore how the milk company raises dairy cows...</p>
+          <a href="#">
+            <input type="button" value="Join" style="border:2px #ccc solid;border-radius:10px;width:50px;height:20px;background-color:white;cursor:pointer">
+          </a>
+          <a href="#" style="padding-left:10px">
+            <input type="button" value="More information" style="border:2px #ccc solid;border-radius:10px;width:120px;height:20px;background-color:white;cursor:pointer">
+          </a>
+     </div>
+
+       <div class="trending-now">
+        <br/><br/><br/>
+        <p> TRENDING  NOW   <a href="#" style="padding-left:10px">
+            <input type="button" value="More" style="border:2px #ccc solid;border-radius:10px;width:50px;height:20px;background-color:white;cursor:pointer">
+          </a>
+        </p>
+          <div class="trending-now-img">
+           <img src="#" width="150" height="120"/>
+           <img style="padding-left:20px" src="#" width="150" height="120"/>
+           <img style="padding-left:20px" src="#" width="150" height="120"/>
+           <img style="padding-left:20px" src="#" width="150" height="120"/>
+         </div>
+       </div>
+
+       <div class="art-and-crafts">
+        <br/><br/><br/>
+        <p> ART AND CRAFTS   <a href="#" style="padding-left:10px">
+            <input type="button" value="More" style="border:2px #ccc solid;border-radius:10px;width:50px;height:20px;background-color:white;cursor:pointer">
+          </a>
+        </p>
+          <div class="art-and-crafts-img">
+           <img src="#" width="150" height="120"/>
+           <img style="padding-left:20px" src="#" width="150" height="120"/>
+           <img style="padding-left:20px" src="#" width="150" height="120"/>
+           <img style="padding-left:20px" src="#" width="150" height="120"/>
+         </div>
+       </div>
+
+
+       <div class="active-fitness">
+        <br/><br/><br/>
+        <p> ACTIVE FITNESS   <a href="#" style="padding-left:10px">
+            <input type="button" value="More" style="border:2px #ccc solid;border-radius:10px;width:50px;height:20px;background-color:white;cursor:pointer">
+          </a>
+        </p>
+          <div class="active-fitness-img">
+           <img src="#" width="150" height="120"/>
+           <img style="padding-left:20px" src="#" width="150" height="120"/>
+           <img style="padding-left:20px" src="#" width="150" height="120"/>
+           <img style="padding-left:20px" src="#" width="150" height="120"/>
+         </div>
+       </div>
+
+    </body>
+   </html>
